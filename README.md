@@ -11,3 +11,4 @@ $data = \DB::table('test')->paginate(5); edit this for your table
 
 
 
+axios should be pulled in globally and bootstrap 4 for css pagination

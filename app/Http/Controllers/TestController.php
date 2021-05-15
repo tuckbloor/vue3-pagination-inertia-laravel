@@ -18,7 +18,7 @@ class TestController extends Controller
         $data = json_decode(json_encode($data),1);
 
 
-        //Edit This for your requirements 
+        //Edit This for your requirements
         if($request->method() === 'GET') {
 
             return Inertia::render('Test', ['pageData' => $data]);
