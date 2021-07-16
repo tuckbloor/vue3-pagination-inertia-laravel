@@ -21,5 +21,3 @@ To Add this component to your project see Test.vue and edit the properties in th
         </td>
     
     </tr>
-    
-axios should be pulled in globally and bootstrap 4 for css pagination
